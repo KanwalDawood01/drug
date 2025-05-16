@@ -364,7 +364,6 @@ if "control_substances" not in st.session_state:
      'TALWIN', 
      'TAPENTADOL', 
      'TEMAZEPAM',
-     'TEST',
      'TESTOSTERONE',
        'TESTOSTERONE CYPIONATE', 
       'TRAMADOL',
